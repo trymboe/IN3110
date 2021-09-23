@@ -1,0 +1,7 @@
+Here's a line
+<<<<<<< HEAD
+Hello world from B!
+=======
+Hello world from A!
+>>>>>>> 2c94f146364c4ac1dc869ca5530c6070c57d934f
+Here's another line
